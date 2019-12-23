@@ -1,3 +1,12 @@
+```
+Install cpma on your computer
+$ git clone https://github.com/fusor/cpma.git
+$ cd cpma
+$ make
+
+```
+------------------------
+
 ## cpma [![Build Status](https://travis-ci.com/fusor/cpma.svg?branch=master)](https://travis-ci.com/fusor/cpma) [![Maintainability](https://api.codeclimate.com/v1/badges/aac7d46fd7899042ce52/maintainability)](https://codeclimate.com/github/fusor/cpma/maintainability)
 Control Plane Migration Assistant (CPMA) is a Command Line interface to help as much as possible users migrating an Openshift 3.7+ control plane configuration to an Openshift 4.x.
 The utility provides Custom Ressource (CR) manifests and reports informing users which aspects of configuration can and cannot be migrated.
